@@ -1,0 +1,4 @@
+The tas is to The Fibonacci series is a sequence where each number is 
+the sum of the two preceding numbers, defined by a 
+mathematical recurrence relationship. 
+The program then prompts the user for the number of terms to generate and uses a for loop to call the fibonacci() function and print the results.
